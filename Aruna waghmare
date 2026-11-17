@@ -1,0 +1,10 @@
+─ Career_Before_Fusion.xlsx
+├── Career_API_Fused.xlsx
+├── Application_Code/
+│   ├── app.py
+│   ├── api.py
+│   ├── requirements.txt
+│   ├── data/
+│   └── faiss_index/
+│
+└── API_Documentation.pdf
